@@ -1,2 +1,3 @@
-# fast-deilabs-app
-FastDEILabs Android app
+# FastDEILabs Android app
+
+Download the apk
